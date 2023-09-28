@@ -1,4 +1,4 @@
-# Data_Cleaning_with_SQL
+# Data_Cleaning_with_Power BI
 
 ## Business Objectives
 
