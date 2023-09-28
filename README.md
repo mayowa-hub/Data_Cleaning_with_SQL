@@ -1,10 +1,14 @@
-# Data_Cleaning_with_Power BI
+# Data_Cleaning and Visualization_with_Power BI
 
 ## Business Objectives
-
+This project focused on revenue generated from product order made represented by good visualization insights that 
+helped make informed decision and yielded up to 15% increase.
 ## Data Cleaning
-
+This is a very much pivotal process in ensuring data consistency.The dataset used was scrubbed, by fixing incorrect, incomplete, duplicate or otherwise erroneous data in a data set.
+I loaded sales dataset into power BI, clean the dataset, transform the data and close and apply.
 ## Data Modelling
+This is integral part of the aanalysis process to analyze and extract value from its dataset.The stakeholders contribute to the success of the data modeling practice. 
+In this process of  relations was generated and analyzed between different components(prduct, sales, budget dataset) of the enterprise data creating a data model 
 
 ## Data Visualization
 
