@@ -7,9 +7,10 @@ helped make informed decision and yielded up to 15% increase.
 This is a very much pivotal process in ensuring data consistency.The dataset used was scrubbed, by fixing incorrect, incomplete, duplicate or otherwise erroneous data in a data set.
 I loaded sales dataset into power BI, clean the dataset, transform the data and close and apply.
 ## Data Modelling
-This is integral part of the aanalysis process to analyze and extract value from its dataset.The stakeholders contribute to the success of the data modeling practice. 
+This is integral part of the analysis process to analyze and extract value from its dataset.The stakeholders contribute to the success of the data modeling practice. 
 In this process of  relations was generated and analyzed between different components(prduct, sales, budget dataset) of the enterprise data creating a data model 
 
 ## Data Visualization
-
+This communicate complex data relationships and data-driven insights in a way that is easy to understand and shows visual displays of information.
+This shows the visual display represented by charts of revenue over time, revenue by product group, revenue by channel, revenue by product category, thier interactiveness and the insights they communicate.
 ![PowerBI_DASHBOARD](https://github.com/mayowa-hub/Data_Cleaning_with_SQL/assets/129955412/d6cf95d8-cba0-4c03-a272-8168849b28d8)
